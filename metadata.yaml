@@ -1,10 +1,16 @@
 _repo: The-Gland-Stealers_48975
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48975-h/images/cover.jpg
 creator:
   author:
     agent_name: Gayton, Bertram
     gutenberg_agent_id: '45070'
     url: http://www.gutenberg.org/2009/agents/45070
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48975#The-Gland-Stealers
 gutenberg_issued: '2015-05-16'
 gutenberg_type: Text
 identifiers:
